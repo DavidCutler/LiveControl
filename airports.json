@@ -380,7 +380,7 @@
 		"freqGround": "121.700",
 		"freqTower": "120.700",
 		"freqApproach": "124.350"
-			},
+	},
     {
 	   	"region": "SoCal",
 		"ICAOcode": "KSLI",
