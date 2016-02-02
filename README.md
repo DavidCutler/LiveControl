@@ -1,2 +1,2 @@
 # LiveControl
-Repository for the LiveControl Program
+Repository for the LiveControl
