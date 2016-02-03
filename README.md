@@ -1,2 +1,2 @@
 # LiveControl
-GitHub Repository for LiveControl
+Repository for the LiveControl
